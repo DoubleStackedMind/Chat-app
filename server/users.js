@@ -10,7 +10,7 @@ if(existingUser) {
 }
 
 const user = {id, name, room};
-user.push(user);
+users.push(user);
 return {user};
 }
 
